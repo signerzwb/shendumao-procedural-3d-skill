@@ -6,7 +6,7 @@
 
 - `build-procedural-3d-game-skill.zip`：Skill 原始压缩包，解压后包含 `build-procedural-3d-game/SKILL.md`、参考资料和静态检查脚本。
 - `jiangnan.html`：《听雨·江南水巷》交互场景示例，约 790 KiB；包括水巷、桥、建筑、天气切换、漫游操作与音效代码。它是演示场景，不是完整商业游戏。
-- `THREEJS-LICENSE.txt`：示例内嵌的 Three.js 上游 MIT 许可证。HTML 源码保留了原有 Three.js 版权和 SPDX 说明。
+- `third-party-notices/threejs.txt`：示例内嵌的 Three.js 上游 MIT 许可证。HTML 源码保留了原有 Three.js 版权和 SPDX 说明。
 
 ## 安装 Skill
 
@@ -32,7 +32,7 @@
 
 ## 来源与使用边界
 
-- Three.js 官方项目：<https://github.com/mrdoob/three.js>；案例内嵌部分遵循其 MIT 许可，详见 `THREEJS-LICENSE.txt`。
+- Three.js 官方项目：<https://github.com/mrdoob/three.js>；案例内嵌部分遵循其 MIT 许可，详见 `third-party-notices/threejs.txt`。
 - WebGL 介绍：<https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API>。
 - Skill 与示例作为学习材料分享；本仓库没有对其余自有内容额外指定开源许可证。复用、改造或商业使用前，请确认相应权利和许可。
 - 本仓库不附带账号、密钥、私有项目或用户聊天内容。
